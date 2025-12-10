@@ -19,7 +19,7 @@ A simple C# console application that fetches and displays weather forecasts from
 ## Requirements
 
 - [.NET 10.0 SDK](https://dotnet.microsoft.com/download/dotnet/10.0)
-- Internet connection to access the National Weather Service API.
+- Internet connection to access the National Weather Service API
 
 ---
 
@@ -44,8 +44,7 @@ Forecast for CO (approx. 39.7392,-104.9903):
 Today
 Temp: 75F
 Sunny with light winds.
-----------------------
+
 Tonight
 Temp: 50F
 Clear skies overnight.
-----------------------
