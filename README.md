@@ -34,6 +34,8 @@ A simple C# console application that fetches and displays weather forecasts from
     Enter a US state code (e.g., CO, NY, CA): CO
 5. The app will display the forecast for that state’s main city.
 
+---
+
 ## Example Output
 
 Welcome to the Can/Am Weather App!
