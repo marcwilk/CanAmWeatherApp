@@ -1,0 +1,14 @@
+/Users/marc/Documents/Code/Projects/CanAmWeatherApp/bin/Debug/net10.0/CanAmWeatherApp
+/Users/marc/Documents/Code/Projects/CanAmWeatherApp/bin/Debug/net10.0/CanAmWeatherApp.deps.json
+/Users/marc/Documents/Code/Projects/CanAmWeatherApp/bin/Debug/net10.0/CanAmWeatherApp.runtimeconfig.json
+/Users/marc/Documents/Code/Projects/CanAmWeatherApp/bin/Debug/net10.0/CanAmWeatherApp.dll
+/Users/marc/Documents/Code/Projects/CanAmWeatherApp/bin/Debug/net10.0/CanAmWeatherApp.pdb
+/Users/marc/Documents/Code/Projects/CanAmWeatherApp/obj/Debug/net10.0/CanAmWeatherApp.GeneratedMSBuildEditorConfig.editorconfig
+/Users/marc/Documents/Code/Projects/CanAmWeatherApp/obj/Debug/net10.0/CanAmWeatherApp.AssemblyInfoInputs.cache
+/Users/marc/Documents/Code/Projects/CanAmWeatherApp/obj/Debug/net10.0/CanAmWeatherApp.AssemblyInfo.cs
+/Users/marc/Documents/Code/Projects/CanAmWeatherApp/obj/Debug/net10.0/CanAmWeatherApp.csproj.CoreCompileInputs.cache
+/Users/marc/Documents/Code/Projects/CanAmWeatherApp/obj/Debug/net10.0/CanAmWeatherApp.dll
+/Users/marc/Documents/Code/Projects/CanAmWeatherApp/obj/Debug/net10.0/refint/CanAmWeatherApp.dll
+/Users/marc/Documents/Code/Projects/CanAmWeatherApp/obj/Debug/net10.0/CanAmWeatherApp.pdb
+/Users/marc/Documents/Code/Projects/CanAmWeatherApp/obj/Debug/net10.0/CanAmWeatherApp.genruntimeconfig.cache
+/Users/marc/Documents/Code/Projects/CanAmWeatherApp/obj/Debug/net10.0/ref/CanAmWeatherApp.dll
